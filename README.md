@@ -1,7 +1,7 @@
-<h1 align="center">📊 Big Data Analysis using Scalable Processing</h1>
+<h1 align="center">📊 Big Data Analysis using Python</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=1A7FF0&size=22&center=true&vCenter=true&width=750&lines=Large+Scale+Data+Analysis+Project;Scalable+Processing+%7C+Distributed+Computation;PySpark+%2F+Dask+%7C+Python+%7C+Jupyter+Notebook;CODTECH+Data+Analysis+Internship+-+Task+1" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=1A7FF0&size=22&center=true&vCenter=true&width=750&lines=CODTECH+Internship+-+Task+1;Large+Scale+Data+Analysis+Project;Data+Cleaning+%7C+Aggregation+%7C+Insights;Python+%7C+Jupyter+Notebook" />
 </p>
 
 ---
@@ -9,29 +9,29 @@
 ## 📘 Overview
 
 This project is **Task 1** of the **Data Analysis Internship at CODTECH**.  
-The objective of this task is to perform scalable analysis on a large dataset and extract meaningful insights using big data processing tools.
+The objective of this task is to perform analysis on a large dataset and extract meaningful insights using Python.
 
 The project is implemented using a **Python-based Jupyter Notebook**, where large-scale data is cleaned, transformed, aggregated, and analyzed efficiently.
 
-This task demonstrates the ability to handle high-volume datasets while maintaining performance and scalability.
+This task demonstrates the ability to handle high-volume datasets and perform structured data analysis effectively.
 
 ---
 
 ## 🎯 Task Objective
 
-- Analyze a large dataset using scalable processing tools  
+- Analyze a large dataset using Python  
 - Perform efficient data cleaning and preprocessing  
 - Apply grouping, filtering, and aggregation operations  
-- Extract meaningful insights from high-volume data  
-- Demonstrate performance-aware data analysis  
+- Extract meaningful insights from structured data  
+- Generate summary statistics and trends  
 
 ---
 
 ## 🛠️ Tools & Technologies Used
 
 - **Python (Jupyter Notebook)** – Core implementation  
-- **PySpark / Dask** – Scalable and distributed data processing  
-- **pandas** – Data validation and manipulation  
+- **pandas** – Data cleaning and manipulation  
+- **matplotlib / seaborn** – Data visualization  
 - **CSV Dataset** – Large structured dataset for analysis  
 
 ---
@@ -42,11 +42,11 @@ The following deliverables are included in this repository:
 
 - 📄 **Dataset**  
   - `dataset.csv`  
-  - Large dataset used for scalable data analysis  
+  - Dataset used for analysis  
 
 - 📓 **Jupyter Notebook**  
   - `Task1_BigData_Analysis.ipynb`  
-  - Contains data loading, preprocessing, scalable transformations, aggregations, and insight extraction  
+  - Contains data loading, preprocessing, transformations, aggregations, visualizations, and insight extraction  
 
 ---
 
@@ -54,12 +54,13 @@ The following deliverables are included in this repository:
 
 The Python notebook includes:
 
-- Loading and schema inspection of the dataset  
+- Loading and inspecting the dataset  
 - Data cleaning (handling missing values, duplicates, correcting data types)  
 - Aggregations and grouping operations  
 - Creation of derived metrics  
 - Summary statistics and trend analysis  
-- Extraction of key insights from large-scale data  
+- Visualization of key patterns  
+- Extraction of important insights  
 
 This notebook serves as the **primary analytical deliverable** for Task 1.
 
@@ -67,19 +68,19 @@ This notebook serves as the **primary analytical deliverable** for Task 1.
 
 ## 📊 Key Highlights
 
-- Efficient handling of large datasets  
-- Application of scalable processing techniques  
-- Performance-aware transformations and aggregations  
-- Extraction of actionable insights from high-volume data  
+- Structured handling of a large dataset  
+- Efficient data transformation and aggregation  
+- Clear visualization of trends and patterns  
+- Insight-driven data analysis  
 
 ---
 
 ## ✨ Key Learnings
 
-- Practical exposure to big data tools and scalable processing  
-- Improved understanding of distributed computation concepts  
-- Strengthened data preprocessing and transformation skills  
-- Experience in deriving insights from large structured datasets  
+- Practical experience in large dataset analysis using Python  
+- Strengthened data preprocessing skills  
+- Improved analytical thinking  
+- Better understanding of data-driven decision making  
 
 ---
 
@@ -97,4 +98,4 @@ This repository is maintained as part of the **CODTECH internship task submissio
 
 ---
 
-✅ **Task 1 successfully completed using scalable data processing and insight generation.**
+✅ **Task 1 successfully completed using Python-based data analysis and insight generation.**
