@@ -41,11 +41,11 @@ This task demonstrates the ability to handle high-volume datasets and perform st
 The following deliverables are included in this repository:
 
 - 📄 **Dataset**  
-  - `dataset.csv`  
+  - [Online_Retail_II.zip](https://github.com/ShouryaAgg/CODTECH_DA_01/blob/20ee82125ede58013877fce9f71ece7c69265453/dataset/online_retail_II.zip)
   - Dataset used for analysis  
 
 - 📓 **Jupyter Notebook**  
-  - `Task1_BigData_Analysis.ipynb`  
+  - [Task_1_Big_Data_Analysis.ipynb](https://github.com/ShouryaAgg/CODTECH_DA_01/blob/20ee82125ede58013877fce9f71ece7c69265453/task1_big_data_analysis.ipynb)  
   - Contains data loading, preprocessing, transformations, aggregations, visualizations, and insight extraction  
 
 ---
